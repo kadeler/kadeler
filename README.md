@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, i'm Evan!
+#### I am a front-end developer / game-dev
+My skill set is quite enormous(though i'm junior at all of them)
 
-<!--
-**kadeler/kadeler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been developing for 3 years but still haven't decided on what am i willing to contribute for the rest of my life, but right now my favorite things are 🌐 websites and 🎮 games
 
-Here are some ideas to get you started:
+I wish to become a professional game-dev or a front-end developer
+(if u can help me with that it would be awesome!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: HTML/CSS, C#, C++, Python, Kotlin
+
+- 💸 Looking for a job
+- 🌱 Currently learning: Unity 
+
+How to contact me:
+- LinkedIn: https://www.linkedin.com/in/kadeler/
+- Discord: https://discord.com/users/220219840466518016
+- Telegram: t.me/ka0313r
+- Email: snigirevevan@gmail.com
