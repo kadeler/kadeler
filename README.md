@@ -15,5 +15,5 @@ Skills: HTML/CSS, C#, C++, Python, Kotlin
 How to contact me:
 - LinkedIn: https://www.linkedin.com/in/kadeler/
 - Discord: https://discord.com/users/220219840466518016
-- Telegram: t.me/ka0313r
+- Telegram: https://t.me/ka0313r
 - Email: snigirevevan@gmail.com
