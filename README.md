@@ -13,7 +13,9 @@ Skills: HTML/CSS, C#, C++, Python, Kotlin
 - 🌱 Currently learning: Unity 
 
 My resume:
-[Snigirev_Ivan_CV.pdf](https://github.com/kadeler/kadeler/files/8995845/Snigirev_Ivan_CV.pdf)
+[Snigirev_Ivan_CV.pdf](https://github.com/kadeler/kadeler/files/10611184/Snigirev_Ivan_CV.3.pdf)
+
+
 
 How to contact me:
 - LinkedIn: https://www.linkedin.com/in/kadeler/
